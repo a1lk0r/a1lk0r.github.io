@@ -1,30 +1,27 @@
 # About
 
-我是呂科錄(Alkor),台大資工大一,畢業於國立鳳山高中數理資優班。
+I'm Alkor, a freshman at NTU CSIE (National Taiwan University, Computer Science and Information Engineering), graduated from the Math & Science Gifted Program at National Fengshan Senior High School.
 
-## 興趣與技能
+## Interests & Skills
 
-- **興趣**：AI、機器學習、GPU 加速、Edge AI、FPGA
-- **技能**：C++、Python
+- **Interests**: AI, Machine Learning, GPU Acceleration, Edge AI, FPGA
+- **Skills**: C++, Python
 
-## 經歷
+## Experience
 
-- 2026 起,擔任台大資工「計算機程式設計」課程 TA(劉邦鋒教授)
-- 2024–2025,鳳山高中電資教學幹部
+- 2026–present, Teaching Assistant for "Computer Programming" at NTU CSIE (Prof. Pangfeng Liu)
+- 2024–2025, Computer Science teaching staff at National Fengshan Senior High School
 
-## 競賽
+## Competitions
 
-- 2025 NHSPC 全國賽第 37 名、區賽第 2 名、校內選拔第 1 名
-- 115 年資訊奧林匹亞初選第 117 名
-- 第七屆全國高中物理探究實作競賽全國二等獎、高屏澎考區二等獎
-- APCS 觀念 5 級、實作 3 級
-- AMC12 非常優良,取得 AIME 參賽資格
+- 2025 NHSPC (National Highschool Programming Contest): 37th nationally, 2nd in regional round, 1st in school selection
+- AMC12: Distinction, qualified for AIME
 
-## 專案
+## Projects
 
-- 使用 GNN 預測 UBike 站點剩餘車輛數的網站
+- A website predicting UBike station bike availability using GNN (Graph Neural Networks)
 
-## 聯絡
+## Contact
 
 - GitHub: [@a1lk0r](https://github.com/a1lk0r)
 - Email: [pioneer588k@gmail.com](mailto:pioneer588k@gmail.com)
